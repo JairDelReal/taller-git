@@ -1,5 +1,5 @@
 def saludar():
-    print("Hola, Git desde desde la rama master!")
+    print("Hola, desde la rama fusionada")
 
 if __name__ == "__main__":
     saludar()
